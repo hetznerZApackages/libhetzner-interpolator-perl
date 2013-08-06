@@ -1,0 +1,11 @@
+This is the debian package for the HETZNER-Interpolator module.
+It was created by Shaun Bugler <shaun.bugler@hetzner.co.za> using dh-make-perl.
+
+It was downloaded from git@git.hetzner.co.za:/usr/home/git/repositories/hetzner_interpolator.git
+
+Upstream Author: Hetzner Sysdev Team
+
+Copyright: 2009 Hetzner (Pty) Ltd.
+
+License:
+   This software is for the exclusive use of Hetzner Online AG & Hetzner (PTY) LTD.

@@ -1,0 +1,41 @@
+libhetzner-interpolator-perl (1.1+hetz4) wheezy-hetz; urgency=low
+
+  * Released 1.1+hetz4~exp1 as 1.1+hetz4
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 06 Aug 2013 16:21:15 +0200
+
+libhetzner-interpolator-perl (1.1+hetz4~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Building for Wheezy
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 06 Aug 2013 16:19:50 +0200
+
+libhetzner-interpolator-perl (1.1+hetz3~exp1) wheezy-hetz-experimental; urgency=low
+
+  * Building for Squeeze 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 06 Aug 2013 16:19:50 +0200
+
+libhetzner-interpolator-perl (1.1+hetz2) lenny-hetz; urgency=low
+
+  * Released 1.1+hetz2~exp1 as 1.1+hetz2
+
+ -- Sheldon Hearn <sheldon.hearn@hetzner.co.za>  Wed, 15 Dec 2010 15:57:43 +0200
+
+libhetzner-interpolator-perl (1.1+hetz2~exp1) lenny-hetz-experimental; urgency=low
+
+  * Version bump for amd64 rebuild
+
+ -- Sheldon Hearn <sheldon.hearn@hetzner.co.za>  Wed, 15 Dec 2010 15:56:37 +0200
+
+libhetzner-interpolator-perl (1.1+hetz1) lenny-hetz; urgency=low
+
+  * Released 1.1+hetz1~exp1 as 1.1+hetz1
+
+ -- Shaun Bugler <shaun.bugler@hetzner.co.za>  Wed, 21 Jul 2010 16:13:09 +0200
+
+libhetzner-interpolator-perl (1.1+hetz1~exp1) lenny-hetz-experimental; urgency=low
+
+  * Initial Release.
+
+ -- Shaun Bugler <shaun.bugler@hetzner.co.za>  Mon, 17 May 2010 15:18:12 +0200

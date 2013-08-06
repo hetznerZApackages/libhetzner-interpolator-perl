@@ -1,0 +1,14 @@
+Source: libhetzner-interpolator-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 5)
+Build-Depends-Indep: perl (>= 5.6.10-12), libclass-methodmaker-perl
+Maintainer: Shaun Bugler <shaun.bugler@hetzner.co.za>
+Standards-Version: 3.8.0
+
+Package: libhetzner-interpolator-perl
+Architecture: all
+Depends: ${perl:Depends}, ${misc:Depends}
+Description: Hetzners Interpolator Perl Module
+ Hetzner's Perl Module to generate Bind9 configuration which
+ is distributed by update-server to our nameservers.

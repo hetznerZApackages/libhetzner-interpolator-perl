@@ -1,0 +1,8 @@
+# $Id: MANIFEST,v 1.1 2004/01/30 09:33:24 ianf Exp $
+INSTALL
+MANIFEST
+Makefile.PL
+lib/HETZNER/Interpolator.pm
+t/baz.inc
+t/foo.int
+t/test.t
