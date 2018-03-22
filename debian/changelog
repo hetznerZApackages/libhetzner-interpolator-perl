@@ -1,3 +1,9 @@
+libhetzner-interpolator-perl (1.1+hetz5~exp1) jessie-hetz-experimental; urgency=low
+
+  * Initial release for Jessie
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Thu, 22 Mar 2018 09:10:58 +0200
+
 libhetzner-interpolator-perl (1.1+hetz4) wheezy-hetz; urgency=low
 
   * Released 1.1+hetz4~exp1 as 1.1+hetz4
