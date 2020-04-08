@@ -1,3 +1,9 @@
+libhetzner-interpolator-perl (1.1+hetz6~exp1) stretch-hetz-experimental; urgency=low
+
+  * Release for Stretch upgrade 
+
+ -- Geoff Robertson <geoff.robertson@xneelo.com>  Wed, 08 Apr 2020 09:47:35 +0200
+
 libhetzner-interpolator-perl (1.1+hetz5) jessie-hetz; urgency=low
 
   * Released 1.1+hetz5~exp1 as 1.1+hetz5
